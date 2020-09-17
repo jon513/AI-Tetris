@@ -1,5 +1,5 @@
 # AITetris Project
-The goal of this project is to compare different game-playing agents ability to play Tetris. 
+The goal of this project was to compare different game-playing agents ability to play Tetris. 
 Tetris has been proven to be a NP-complete game, so right off the bat, the goal was to achieve the highest score and not to actually solve the game. 
 We designed, implemented and tested an ExpectiMinimax agent, a MiniMax agent with pruning, and an Approximate QLearner agent.\
 Details of the implementation can be found here [research paper](https://drive.google.com/file/d/198ObhE1Kks98cmFkzWSYzh3xTsgnFrlx/view?usp=sharing)
