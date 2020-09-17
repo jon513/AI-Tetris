@@ -15,7 +15,7 @@ We can clearly see in the results below that the Approximate Q learner is by far
   
 ![](docs/Results small board.png)
 ## Usage
-####Software Requirements
+#### Software Requirements
 1. python3
 2. pygame 2.0
 3. numpy 1.19.1
