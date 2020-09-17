@@ -7,13 +7,13 @@ Details of the implementation can be found here [research paper](https://drive.g
 We tested the agents with an upper bound of 3000 moves, over the course of 10 games.\
 We found that both ExpectiMax and the Approximate Q learner scored very well while MiniMax strugeled to score at all.
 
-![](docs/Results regular board.png)
+![](docs/Results_regular_board.png)
 
 As seen above the ExpectiMinimax and the Approximate Q learner agents yield similar results.\
 To get a better idea of which agent is better we made the game significantly harder by reducing the size of the board.\
 We can clearly see in the results below that the Approximate Q learner is by far the most successful agent.
   
-![](docs/Results small board.png)
+![](docs/Results_small_board.png)
 ## Usage
 #### Software Requirements
 1. python3
