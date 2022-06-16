@@ -5,7 +5,7 @@ We designed, implemented and tested an ExpectiMinimax agent, a MiniMax agent wit
 Details of the implementation can be found here [research paper](https://drive.google.com/file/d/198ObhE1Kks98cmFkzWSYzh3xTsgnFrlx/view?usp=sharing)
 ## Results
 We tested the agents with an upper bound of 3000 moves, over the course of 10 games.\
-We found that both ExpectiMax and the Approximate Q learner scored very well while MiniMax strugeled to score at all.
+We found that both ExpectiMax and the Approximate Q learner scored very well while MiniMax struggled to score at all.
 
 ![](docs/Results_regular_board.png)
 
